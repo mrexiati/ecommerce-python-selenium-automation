@@ -1,0 +1,6 @@
+pytest
+selenium
+ipython
+allure-pytest
+allure-python-commons
+nose

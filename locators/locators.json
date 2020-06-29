@@ -1,0 +1,161 @@
+[
+  {
+    "pageName": "HomePage",
+    "name": "woman_pro",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"block_top_menu\"]/ul/li[1]/a"
+  },
+
+
+    {
+    "pageName": "HomePage",
+    "name": "home_to_cart",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"header\"]/div[3]/div/div/div[3]/div/a"
+  },
+  {
+    "pageName": "ProductPage",
+    "name": "all_pro",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"center_column\"]/ul/li/div/div[2]/h5//a"
+  },
+     {
+    "pageName": "CartPage",
+    "name": "quantity",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"quantity_wanted\"]"
+  },
+  {
+    "pageName": "CartPage",
+    "name": "size",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"group_1\"]"
+  },
+  {
+    "pageName": "CartPage",
+    "name": "color",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"color_13\"]"
+  },
+
+
+  {
+    "pageName": "CartPage",
+    "name": "add_to_cart",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"add_to_cart\"]/button"
+  },
+
+    {
+    "pageName": "CartPage",
+    "name": "success_message",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"layer_cart\"]/div[1]/div[1]/h2"
+  },
+
+     {
+    "pageName": "CartPage",
+    "name": "all_li",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"color_to_pick_list\"]//a"
+  },
+
+  {
+    "pageName": "CartPage",
+    "name": "pro_name",
+    "locateUsing": "css",
+    "locator": "#layer_cart_product_title"
+  },
+    {
+    "pageName": "CartPage",
+    "name": "color_size",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"layer_cart_product_attributes\"]"
+  },
+    {
+    "pageName": "CartPage",
+    "name": "cart_quantity",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"layer_cart_product_quantity\"]"
+  },
+      {
+    "pageName": "CartPage",
+    "name": "total_price",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"layer_cart\"]/div[1]/div[2]/div[3]/span"
+  },
+  {
+    "pageName": "CartPage",
+    "name": "continue_shopping",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"layer_cart\"]/div[1]/div[2]/div[4]/span/span"
+  },
+    {
+    "pageName": "CartPage",
+    "name": "cart_sum",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"header\"]/div[3]/div/div/div[3]/div/a"
+  },
+
+      {
+    "pageName": "CartPage",
+    "name": "continue_checkout",
+    "locateUsing": "xpath",
+    "locator": "  //span[contains(text(),'Proceed to checkout')]"
+  },
+
+
+      {
+    "pageName": "CartPage",
+    "name": "null_quantity",
+    "locateUsing": "xpath",
+    "locator": "//p[@class='fancybox-error']"
+  },
+
+    {
+    "pageName": "CartPage",
+    "name": "CartSummary",
+    "locateUsing": "xpath",
+    "locator": "  //*[@id=\"product_1_1_0_0\"]/td[2]/small[2]/a"
+  },
+
+      {
+    "pageName": "CartSummary",
+    "name": "first_info",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"summary_products_quantity\"]"
+  },
+  {
+    "pageName": "CartSummary",
+    "name": "multi_price",
+    "locateUsing": "xpath",
+    "locator": "//*[@id=\"total_price\"]"
+  },
+    {
+    "pageName": "CartSummary",
+    "name": "remove_button",
+    "locateUsing": "xpath",
+    "locator": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[7]/div[1]/a[1]/i[1]"
+  },
+
+  {
+    "pageName": "CartSummary",
+    "name": "empty_message",
+    "locateUsing": "xpath",
+    "locator": "//p[@class='alert alert-warning']"
+  },
+    {
+    "pageName": "CartSummary",
+    "name": "increase",
+    "locateUsing": "xpath",
+    "locator": "  //i[@class='icon-plus']"
+  },
+      {
+    "pageName": "CartSummary",
+    "name": "decrease",
+    "locateUsing": "xpath",
+    "locator": "//i[@class='icon-minus']"
+  }
+
+
+]

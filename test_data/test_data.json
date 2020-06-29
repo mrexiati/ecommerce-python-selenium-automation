@@ -1,0 +1,32 @@
+{
+    "environment": "http://automationpractice.com/index.php",
+    "browser": "chrome",
+    "firstProductName": "Faded Short Sleeve T-shirts",
+    "firstProductQuantity": "1",
+    "firstProductSize":"2",
+    "firstProductColor":"Orange",
+    "successMessage": "Product successfully added to your shopping cart",
+    "firstProColorAndSize": "Orange, M",
+    "firstTotal": "$18.51",
+    "secondProductName": "Printed Dress",
+    "secondProductQuantity": "1",
+    "secondProductSize":"2",
+    "secondProductColor":"Orange",
+    "firstMultipleInfo": "2 Products",
+    "multiPrice": "$44.51",
+    "sameMultiPrice": "$35.02",
+    "decreasedNumber": "1 Product",
+    "decreasedPrice": "$28.00",
+    "emptyMessage": "Your shopping cart is empty.",
+    "lowerBoundary": "0",
+    "lowerBoundaryMessage": "Null quantity.",
+    "upperBoundary": "99",
+    "upperBoundaryMessage": "Maximum order quantity is 99",
+    "beforeIncrease": "1 Product",
+    "increased": "2 Products",
+    "afterTotal": "$35.02",
+    "navigateBack": "1 Product"
+}
+
+
+
