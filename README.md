@@ -17,7 +17,7 @@ This was a coding task for an interview that assesses my learning curve for Pyth
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/your-python-selenium-framework.git
+   git clone https://github.com/mrexiati/ecommerce-python-selenium-automation.git
    ```
 2. Navigate to the project directory
    ```sh
