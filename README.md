@@ -1,3 +1,4 @@
+<a id="readme-top"></a>
 ## About The Project
 
 This was a coding task for an interview that assesses my learning curve for Python 3 within 3 work days. I was asked to automate the website http://automationpractice.com/ (this website is currently down and not maintained) with around 10 test cases for the end user with Python 3 and Selenium.
@@ -5,10 +6,6 @@ This was a coding task for an interview that assesses my learning curve for Pyth
 <p align="right"><a href="#readme-bottom">Jump to the bottom</a></p>
 
 <br>
-
-### Built With
-
-To display all the tools in the "Built With" section on one line with their icons, you can format it like this:
 
 ### Built With
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![IPython](https://img.shields.io/badge/-IPython-F37626?style=flat-square&logo=ipython&logoColor=white) ![Allure Pytest](https://img.shields.io/badge/-Allure_Pytest-0A9EDC?style=flat-square) ![Allure Python Commons](https://img.shields.io/badge/-Allure_Python_Commons-0A9EDC?style=flat-square) ![Nose](https://img.shields.io/badge/-Nose-0A9EDC?style=flat-square)
@@ -48,7 +45,7 @@ To display all the tools in the "Built With" section on one line with their icon
    ```
 
 <p align="right"><a href="#readme-top">Jump to the top</a></p>
-
+<a id="readme-bottom"></a>
 
 
 
