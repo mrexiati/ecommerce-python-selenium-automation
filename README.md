@@ -27,9 +27,7 @@ This was a coding task for an interview that assesses my learning curve for Pyth
    ```sh
    pip install pytest selenium ipython allure-pytest allure-python-commons nose
    ```
-4. Set up your `.env` file with the necessary environment variables.
-
-5. Run the tests on your local machine
+4. Run the tests on your local machine
    ```sh
    pytest
    ```
