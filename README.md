@@ -8,7 +8,12 @@ This was a coding task for an interview that assesses my learning curve for Pyth
 <br>
 
 ### Built With
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![IPython](https://img.shields.io/badge/-IPython-F37626?style=flat-square&logo=ipython&logoColor=white) ![Allure Pytest](https://img.shields.io/badge/-Allure_Pytest-0A9EDC?style=flat-square) ![Allure Python Commons](https://img.shields.io/badge/-Allure_Python_Commons-0A9EDC?style=flat-square) ![Nose](https://img.shields.io/badge/-Nose-0A9EDC?style=flat-square)
+[![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://docs.pytest.org/en/latest/)
+[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/documentation/en/)
+[![IPython](https://img.shields.io/badge/-IPython-F37626?style=flat-square&logo=ipython&logoColor=white)](https://ipython.org/)
+[![Allure Pytest](https://img.shields.io/badge/-Allure_Pytest-0A9EDC?style=flat-square)](https://docs.qameta.io/allure/#_pytest)
+[![Allure Python Commons](https://img.shields.io/badge/-Allure_Python_Commons-0A9EDC?style=flat-square)](https://docs.qameta.io/allure/#_python)
+[![Nose](https://img.shields.io/badge/-Nose-0A9EDC?style=flat-square)](https://nose.readthedocs.io/en/latest/)
 
 
 <br>
