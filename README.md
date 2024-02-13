@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 ## About The Project
 
-This was a coding task for an interview that assesses my learning curve for Python 3 within 3 work days. I was asked to automate the website http://automationpractice.com/ (this website is currently down and not maintained) with around 10 test cases for the end user with Python 3 and Selenium.
+This is a small project to automate the website http://automationpractice.com/ (this website is currently down and not maintained) with around 10 test cases with end user workflow using Python 3 and Selenium. I had fun learning Python 3 from here.
 
 <p align="right"><a href="#readme-bottom">Jump to the bottom</a></p>
 
